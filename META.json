@@ -4,7 +4,7 @@
       "Daisuke (yet another) Maki <maki.daisuke AT gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.6.7, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Minilla/v0.8.0, CPAN::Meta::Converter version 2.132830",
    "license" : [
       "perl_5"
    ],
@@ -21,7 +21,8 @@
          "share",
          "eg",
          "examples",
-         "author"
+         "author",
+         "builder"
       ]
    },
    "prereqs" : {
@@ -55,5 +56,18 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Maki-Daisuke/p5-Log-Minimal-Indent/issues"
+      },
+      "homepage" : "https://github.com/Maki-Daisuke/p5-Log-Minimal-Indent",
+      "repository" : {
+         "url" : "https://github.com/Maki-Daisuke/p5-Log-Minimal-Indent.git",
+         "web" : "https://github.com/Maki-Daisuke/p5-Log-Minimal-Indent"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "Daisuke (yet another) Maki <maki.daisuke@gmail.com>"
+   ]
 }

@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Maki-Daisuke/p5-Log-Minimal-Indent.png?branch=master)](https://travis-ci.org/Maki-Daisuke/p5-Log-Minimal-Indent)
 # NAME
 
 Log::Minimal::Indent - Log::Minimal extension to support indentation
